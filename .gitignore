@@ -1,6 +1,6 @@
-# sensitive / raw data files
-*.csv
-*.xlsx
+# generated output files (raw source CSVs are public open data and are tracked)
+merged.csv
+merged.xlsx
 *.xls
 
 # python
