@@ -1,0 +1,13 @@
+# sensitive / raw data files
+*.csv
+*.xlsx
+*.xls
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# streamlit
+.streamlit/
